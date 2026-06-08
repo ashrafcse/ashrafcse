@@ -59,7 +59,11 @@ funded health research projects.
 ![Google Tag Manager](https://img.shields.io/badge/Google_Tag_Manager-246FDB?style=for-the-badge&logo=google-tag-manager&logoColor=white)
 
 ### 🔍 SEO & Marketing
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![Technical SEO](https://img.shields.io/badge/Technical_SEO-FF6B35?style=for-the-badge&logo=google-search-console&logoColor=white)
+![GEO](https://img.shields.io/badge/GEO-Generative_Engine_Optimization-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![SEA](https://img.shields.io/badge/SEA-Search_Engine_Advertising-34A853?style=for-the-badge&logo=google-ads&logoColor=white)
+![On-Page SEO](https://img.shields.io/badge/On--Page_SEO-0F9D58?style=for-the-badge&logo=google-search-console&logoColor=white)
+![YouTube SEO](https://img.shields.io/badge/YouTube_SEO-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
 ![Google Search Console](https://img.shields.io/badge/Search_Console-4285F4?style=for-the-badge&logo=google-search-console&logoColor=white)
 
 ---
