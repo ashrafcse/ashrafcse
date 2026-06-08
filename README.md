@@ -1,31 +1,22 @@
-🔭 Founder & CEO of Zaman IT Consulting — delivering web development,
-   technical SEO, and digital marketing solutions for international clients.
+# A.K.M. Ashrafuzzaman
+### 🌍 Web & SEO Expert | Fullstack Developer | Data Analyst
+📍 Bielefeld, Germany &nbsp;|&nbsp; 🌐 [zamanitc.com](https://zamanitc.com) &nbsp;|&nbsp; 💼 Open to work in Germany
 
-🏗️ Built web applications for WHO, Johns Hopkins & University of Edinburgh
-   funded health research projects.
+---
+
+🔭 Founder & CEO of **Zaman IT Consulting** — delivering web development,
+technical SEO, and digital marketing solutions for international clients.
+
+🏗️ Built web applications for **WHO, Johns Hopkins & University of Edinburgh**
+funded health research projects.
 
 💡 I build things that work in production — not just in demos.
 
 🌱 Currently improving German (A2 → B1) and exploring SAP S/4HANA.
 
 ⚡ Open to full-time, hybrid & remote opportunities across Germany.
-## 🌐 Frontend
-Angular • React • JavaScript (ES6+) • TypeScript • HTML5 • CSS3/SCSS • Bootstrap • MERN
 
-## ⚙️ Backend
-PHP • Laravel • CodeIgniter • Node.js • Python
-
-## 🗄️ Databases
-MySQL • SQL Server • MongoDB
-
-## ☁️ DevOps & Cloud
-AWS EC2 • GitHub Actions (CI/CD) • Kubernetes • Docker • Git
-
-## 📊 Data & Analytics
-Power BI • Google Analytics • Google Search Console • Google Tag Manager • Pandas • Jupyter
-
-## 🔍 SEO & Marketing
-Technical SEO • On-Page Optimization • YouTube SEO • Keyword Research • Content Strategy
+---
 
 ## 🛠️ Tech Stack
 
@@ -46,8 +37,19 @@ Technical SEO • On-Page Optimization • YouTube SEO • Keyword Research • 
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 
-📧 zamanitc@gmail.com
-🌐 zamanitc.com
-💼 LinkedIn: linkedin.com/in/a-k-m-ashrafuzzaman-aba26028
-🤝 Upwork:   upwork.com/freelancers/~015157301e2ac694dc
-📇 Xing:     xing.com/profile/AKM_ASHRAFUZZAMAN
+---
+
+## 📊 GitHub Stats
+
+![AKM's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ashrafcse&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ashrafcse&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
+## 📬 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/a-k-m-ashrafuzzaman-aba26028/)
+[![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~015157301e2ac694dc)
+[![Xing](https://img.shields.io/badge/Xing-006567?style=for-the-badge&logo=xing&logoColor=white)](https://www.xing.com/profile/AKM_ASHRAFUZZAMAN)
+[![Website](https://img.shields.io/badge/Website-1a2e4a?style=for-the-badge&logo=google-chrome&logoColor=white)](https://zamanitc.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zamanitc@gmail.com)
