@@ -1,6 +1,6 @@
 # A.K.M. Ashrafuzzaman
 ### 🌍 Web & SEO Expert | Fullstack Developer | Data Analyst | AWS
-📍 Bielefeld, Germany &nbsp;|&nbsp; 🌐 [zamanitc.com](https://zamanitc.com) &nbsp;|&nbsp; 💼 Open to work in Germany
+📍 Bielefeld, Germany &nbsp;|&nbsp; 🌐 [zamanitc.com](https://zamanitc.com) &nbsp;|&nbsp;🌐 [AWS](http://13.61.184.92/)) &nbsp;|&nbsp; 💼 Open to work in Germany
 
 ---
 
